@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working at Trade India as a Quality Analyst.<br>👯 I am a team player and enjoy collaborating with others.<br>🌱 I am always looking for new ways to improve my skills and knowledge. <br>💬 I am passionate about contributing to high-quality software development.
+🔭 I am currently working at The Indian Express as a QA Engineer- II.<br>👯 I am a team player and enjoy collaborating with others.<br>🌱 I am always looking for new ways to improve my skills and knowledge. <br>💬 I am passionate about contributing to high-quality software development.
 
 
 # 💻 Tech Stack:
